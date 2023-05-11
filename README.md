@@ -1,15 +1,15 @@
-# AutoReg4MSChatGPT
+# GPT-account GPT账号 GPT账号批发
 
-![GitHub](https://img.shields.io/github/license/imlee2021/AutoReg4MSChatGPT?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/imlee2021/AutoReg4MSChatGPT?style=flat-square)
 
-微软账号与ChatGPT账号自动注册脚本。
+全网最便宜的账号货源 120刀只需8r！
 
-交流群：628041048
+交流群：637658452
 
-成品号：1.5r一个(价格可能变化以网页下单为准)
+成品号：2.5r一个(价格可能变化以网页下单为准)
 
-下单：https://faka.imlee.top
+下单：https://fk.gpt0.icu/ 
+
+另外有注册机项目！
 
 ## 目录
 
